@@ -55,3 +55,15 @@ body {
 .footer a:hover {
   text-decoration: underline;
 }
+}
+
+.footer a {
+  color: #ff4d6d;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+>>>>>>> a3501f1761248e5d42b35b95c029d4f754fb49e0
+}
