@@ -31,17 +31,3 @@ for (let i = 0; i < 150; i++) {
 
   container.appendChild(el);
 }
-  el.className = "word";
-  el.innerText = "I love You";
-
-  // Escalar y centrar
-  const scale = 10;
-  el.style.left = 200 + pos.x * scale + "px";
-  el.style.top = 200 - pos.y * scale + "px";
-
-  // Delay para animación
-  el.style.animationDelay = Math.random() * 4 + "s";
-
-  container.appendChild(el);
->>>>>>> a3501f1761248e5d42b35b95c029d4f754fb49e0
-}
